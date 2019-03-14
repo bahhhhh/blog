@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using icns2png to extract .png’s from .icns files"
-date:   2019-03-14 15:06:00 -0400
+date:   2016-12-30 12:00:00
 tags: [munki, macos]
 ---
 
