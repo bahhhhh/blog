@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://nemati.me/blog/"
+baseurl: "/blog"
+url: "https://nemati.me/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
