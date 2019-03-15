@@ -13,12 +13,16 @@ If you haven’t already, install [Homebrew](http://brew.sh). Once that’s done
 
 With that out of the way, let’s convert Spotify’s icon from an .icns to a .png image. Launch Terminal and enter:
 
-`icns2png -x /Applications/Spotify.app/Contents/Resources/Icon.icns -o ~/Desktop/`
+{% highlight shell %}
+icns2png -x /Applications/Spotify.app/Contents/Resources/Icon.icns -o ~/Desktop/
+{% endhighlight %}
 
 The command above will extract the Spotify icon in different sizes to your Desktop. Now resize it, copy it over to your repo’s icons directory, and give yourself a high-five and you’re all set!
 
 One more thing: Here’s how to extract a .png from an .icns file, and resize the image to 350x350px in one line:
 
-`icns2png -x -s 512x512 /Applications/Spotify.app/Contents/Resources/Icon.icns -o ~/Desktop/;sips -Z 350 *.png`
+{% highlight shell %}
+icns2png -x -s 512x512 /Applications/Spotify.app/Contents/Resources/Icon.icns -o ~/Desktop/;sips -Z 350 *.png
+{% endhighlight %}
 
 Now go make your Managed Software Center look better than it currently does!
