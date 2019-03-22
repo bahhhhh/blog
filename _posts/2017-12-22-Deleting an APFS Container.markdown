@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deleting a APFS Container"
+title:  "Deleting an APFS Container"
 date:   2017-12-22 12:00:00
 tags: [macos]
 ---
