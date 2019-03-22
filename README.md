@@ -1,3 +1,3 @@
-# Some Mac Admin
+# Some Admin
 
-Trying something new...
+An aide-mémoire for someone with terrible, terrible memory.
