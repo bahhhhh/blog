@@ -2,7 +2,7 @@
 layout: post
 title:  "Using icns2png to extract .png’s from .icns files"
 date:   2016-12-30 12:00:00
-tags: [munki, macos]
+tags: [macos]
 ---
 
 Munki’s Managed Software Center wouldn’t look nearly as good without [Product Icons](https://github.com/munki/munki/wiki/Product-Icons). Getting these icons can be tedious, but it doesn’t have to be!

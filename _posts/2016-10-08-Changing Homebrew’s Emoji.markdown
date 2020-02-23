@@ -2,7 +2,7 @@
 layout: post
 title:  "Changing Homebrew’s Emoji"
 date:   2016-10-08 12:00:00
-tags: [homebrew, macos]
+tags: [macos]
 ---
 
 Have you ever wanted to replace [Homebrew](http://brew.sh)’s 🍺 emoji with something else? Well, it turns out it’s possible!
