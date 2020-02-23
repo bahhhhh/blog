@@ -5,7 +5,7 @@ url: "https://nemati.me/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Some Admin
+  title: ./someAdmin.sh
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
